@@ -1,0 +1,2 @@
+# ZTAndNativeLib
+Android native lib
